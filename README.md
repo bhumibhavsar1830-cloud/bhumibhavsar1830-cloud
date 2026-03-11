@@ -63,7 +63,6 @@
 
 - 🥇 **SIH 2025** — Shortlisted Team Member
 - 🥇 **RTMSSU Ideation Competition 3.0** — Shortlisted Team Member
-- 🏅 **NIT Surat ASHINE Hackathon 2026** — Participant
 - 🎨 **Logo Making Competition** — Winner
 - 💻 **Code Mania 6.0** — Participant
 
