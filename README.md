@@ -14,6 +14,7 @@
 - 🏆 **CGPA: 8.45** | Expected Graduation: 2028
 - **Winner of Logo Competition 2026**
 - **Winner Of PosterX  Institute Level Competition**
+- ** Google Student Ambassador 2026**
 - Made A ChatBot **MILO AI** like A JARVIS 
 - 🤖 Passionate about **Machine Learning** and **AI-powered solutions**
 - 🌱 Currently building projects in **Energy Optimization** and **NLP**
